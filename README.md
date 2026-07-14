@@ -24,6 +24,7 @@ To build an interactive Excel dashboard that summarizes airline flight data and 
 **Dataset**
 
 The dataset contains flight-level records with the following fields:
+
 airline: Airline operating the flight
 flight: Flight number
 source_city: City of departure
