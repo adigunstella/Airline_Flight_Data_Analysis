@@ -24,19 +24,18 @@ To build an interactive Excel dashboard that summarizes airline flight data and 
 **Dataset**
 
 The dataset contains flight-level records with the following fields:
-
-airline: Airline operating the flight
-flight: Flight number
-source_city: City of departure
-destination_city: City of arrival
-departure_time: Time of day the flight departs
-arrival_time: Time of day the flight arrives
-stops: Number of stops (zero, one)
-class: Travel class: (Economy, Business)
-duration: Flight duration in hours
-days_left: Number of days left before departure
-price: Ticket price
-flight_type: Direct or Connecting
+- airline: Airline operating the flight
+- flight: Flight number
+- source_city: City of departure
+- destination_city: City of arrival
+- departure_time: Time of day the flight departs
+- arrival_time: Time of day the flight arrives
+- stops: Number of stops (zero, one)
+- class: Travel class: (Economy, Business)
+- duration: Flight duration in hours
+- days_left: Number of days left before departure
+- price: Ticket price
+- flight_type: Direct or Connecting
 
 **Methodology**
 
