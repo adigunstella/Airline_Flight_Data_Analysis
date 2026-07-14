@@ -49,4 +49,5 @@ flight_type: Direct or Connecting
 3. Direct flights (88%) dominate over connecting (12%)
 
 **Tools Used**
+
 ﻿﻿Microsoft Excel - Power Query, Power Pivot, Tables and charts
