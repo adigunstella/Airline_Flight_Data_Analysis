@@ -19,7 +19,6 @@ To build an interactive Excel dashboard that summarizes airline flight data and 
 - Which airline is most booked and generates the most revenue?
 - How do passengers split between Business and Economy class?
 - ﻿What are the most referred flight times 
-- What are the most preferred flight times?
 - How common are direct versus connecting flights?
 - ﻿How does revenue vary by airline and class?
 
