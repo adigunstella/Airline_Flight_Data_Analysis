@@ -7,9 +7,11 @@ This project analyzes airline flight data across major Indian cities and present
 Dashboard Overview
 <img width="1154" height="547" alt="WhatsApp Image 2026-07-14 at 2 46 38 PM" src="https://github.com/user-attachments/assets/3b6e239d-a75d-41f0-ab85-8f84f1115dc0" />
 
+
 **Problem Statement**
 
 With multiple airlines, routes, ticket classes, and flight timings, it can be difficult to quickly identify which airlines perform best, how passengers prefer to fly, and where revenue is concentrated.
+
 
 **Objective**
 
@@ -20,6 +22,7 @@ To build an interactive Excel dashboard that summarizes airline flight data and 
 - What are the most preferred flight times?
 - How common are direct versus connecting flights?
 - ﻿How does revenue vary by airline and class?
+
 
 **Dataset**
 
@@ -37,10 +40,12 @@ The dataset contains flight-level records with the following fields:
 - price: Ticket price
 - flight_type: Direct or Connecting
 
+
 **Methodology**
 
 - ﻿﻿﻿Cleaned and structured raw data with Power Query
 - ﻿﻿﻿Built Pivot Tables to summarize flights, revenue, and KPI's
+
 
 **Key Insights**
 
