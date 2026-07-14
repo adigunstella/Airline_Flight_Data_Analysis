@@ -39,14 +39,14 @@ The dataset contains flight-level records with the following fields:
 
 **Methodology**
 
-1. ﻿﻿﻿Cleaned and structured raw data with Power Query
-2. ﻿﻿﻿Built Pivot Tables to summarize flights, revenue, and KPI's
+- ﻿﻿﻿Cleaned and structured raw data with Power Query
+- ﻿﻿﻿Built Pivot Tables to summarize flights, revenue, and KPI's
 
 **Key Insights**
 
-1. ﻿﻿Vistara leads in both bookings and revenue
-2. ﻿﻿Economy (69%) far outweighs Business (31%) in bookings
-3. Direct flights (88%) dominate over connecting (12%)
+- ﻿﻿Vistara leads in both bookings and revenue
+- ﻿﻿Economy (69%) far outweighs Business (31%) in bookings
+- Direct flights (88%) dominate over connecting (12%)
 
 **Tools Used**
 
