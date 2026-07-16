@@ -37,8 +37,7 @@ The dataset contains flight-level records with the following fields:
 - duration: Flight duration in hours
 - days_left: Number of days left before departure
 - price: Ticket price
-- flight_type: Direct or Connecting
-
+  
 
 **Methodology**
 
@@ -54,4 +53,4 @@ The dataset contains flight-level records with the following fields:
 
 **Tools Used**
 
-﻿﻿Microsoft Excel - Power Query, Power Pivot, Tables and charts
+﻿﻿Microsoft Excel
